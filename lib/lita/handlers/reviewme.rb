@@ -87,7 +87,7 @@ module Lita
       end
 
       def github_access_token
-        ENV['GITHUB_WOLFBRAIN_ACCESS_TOKEN']
+        ENV['GITHUB_BOT_ACCESS_TOKEN']
       end
     end
 

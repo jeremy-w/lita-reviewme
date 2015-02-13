@@ -19,7 +19,7 @@ gem "lita-reviewme", github: "iamvery/lita-reviewme"
 Environment variable needed for Github integration:
 
 ```
-ENV["GITHUB_WOLFBRAIN_ACCESS_TOKEN"]
+ENV["GITHUB_BOT_ACCESS_TOKEN"]
 ```
 
 ## Usage
