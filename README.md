@@ -26,36 +26,36 @@ ENV["GITHUB_BOT_ACCESS_TOKEN"]
 
 ### See who is in the review rotation.
 
-> **Jay H.** Nerdbot: reviewers
+> **Jay H.** Lita: reviewers
 >
-> **Nerdbot** @iamvery, @zacstewart, ...
+> **Lita** @iamvery, @zacstewart, ...
 
 ### Add a name to the review rotation
 
-> **Jay H.** Nerdbot: add @kyfast to reviews
+> **Jay H.** Lita: add @kyfast to reviews
 >
-> **Nerdbot** added @kyfast to reviews
+> **Lita** added @kyfast to reviews
 
 ### Remove a name from the review rotation
 
-> **Jay H.** Nerdbot: remove @kyfast from reviews
+> **Jay H.** Lita: remove @kyfast from reviews
 >
-> **Nerdbot** removed @kyfast from reviews
+> **Lita** removed @kyfast from reviews
 
 ### Fetch the next reviewer
 
-> **Jay H.** Nerdbot: review me
+> **Jay H.** Lita: review me
 >
-> **Nerdbot** @iamvery
+> **Lita** @iamvery
 
 ### Comment on a Github pull request or issue
 This will post a comment mentioning the next reviewer on the referenced Github
 pull request or issue. In order for this to work, @wolfbrain must have access
 to the repository.
 
-> **Jay H.** Nerdbot: review https://github.com/iamvery/lita-reviewme/issues/7
+> **Jay H.** Lita: review https://github.com/iamvery/lita-reviewme/issues/7
 >
-> **Nerdbot** @iamvery should be on it...
+> **Lita** @iamvery should be on it...
 
 ## License
 
